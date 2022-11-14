@@ -4,16 +4,16 @@ body, h1, p, span {
     font-family: Montserrat;
 }
 body {
-    background-color: #0F1722;
+    background-color: #373A46;
 }
 h1 {
     text-align: center;
     margin: 30px 0;
-    color: #FFF;
+    color: #1F77FA;
 }
 /* calculator */
 #calculator {
-    background-color: #1D293A;
+    background-color: #DBDDE0;
     width: 400px;
     height: 400px;
     margin-left: auto;
@@ -36,7 +36,7 @@ h1 {
 }
 #upper-number, #result-number {
     float: right;
-    color: #FFF;
+    color: #1F77FA;
 }
 #result-number {
     font-weight: bold;
@@ -58,15 +58,15 @@ h1 {
     margin: 0 7.5px;
     line-height: 50px;
     text-align: center;
-    color: #FFF;
-    background-color: #354357;
+    color: #1F77FA;
+    background-color: #BFC4CA;
     font-weight: bold;
     font-size: 18px;
     display: inline-block;
     cursor: pointer;
 }
 .btn:hover {
-    background-color: #6C63FF;
+    background-color: #354357;
 }
 #ac-btn {
     margin-left: -200px;
